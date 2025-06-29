@@ -12,7 +12,12 @@
           "package_name": "com.hasretozkan.ai_reels"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "5076005778-cm96sfl08f7r33sh1ke5tg8rulcng9c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCWmDGtJbRLjI-IL1YxNWm88N-3BeqUQec"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5076005778-cm96sfl08f7r33sh1ke5tg8rulcng9c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5076005778-d3ahc1id27k83kbsvv6fvkrm0tcv5qpi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasretozkan.aiReels"
+              }
+            }
+          ]
         }
       }
     }
